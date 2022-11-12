@@ -1,0 +1,53 @@
+{% extends "quizzes/base.html" %}
+{% load static %}
+
+{% block title %}
+Регистрация
+{% endblock %}
+{% block content %}
+<div class="div_content">
+    <div class="div_content1" id="page">
+        <div class="sff">
+            <div class="sff1">
+                <div class="bllaword">
+                    <div class="bllaword1">
+                        <div class="klodes">
+                            <name class="klodes1">Регистрация</name>
+                        </div>
+
+                        <div class="kb_oof">
+                            <input type="text" class="kb_oof1" maxlength="30" id="name" placeholder="Ваше имя">
+                        </div>
+
+                        <div class="kb_oof">
+                            <input type="text" class="kb_oof1" maxlength="30" id="lastname" placeholder="Ваша фамилия">
+                        </div>
+
+                        <div class="kb_oof">
+                            <input type="text" class="kb_oof1" maxlength="50" id="email" placeholder="E-mail">
+                        </div>
+
+                        <div class="kb_oof">
+                            <input type="password" class="kb_oof1" maxlength="30" id="new_pass" placeholder="Пароль">
+                        </div>
+
+                        <div class="kb_oof">
+                            <input type="password" class="kb_oof1" maxlength="30" id="new_pass2"
+                                   placeholder="Повторите пароль">
+                        </div>
+
+                        <div class="kb_oof2">
+                            <button class="kb_oof3" onclick="reg.codes_post(); return false">Зарегистрироваться</button>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <meta property="og:image" content="{% static '/imag/fones.jpg' %}">
+        <meta name="description" content="Сервис для создание креативных контентов и получение крупной популярности.">
+        <script type="text/javascript" src="{% static 'js/login.js' %}"></script>
+    </div>
+</div>
+{% endblock %}

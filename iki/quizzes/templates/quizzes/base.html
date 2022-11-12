@@ -1,0 +1,54 @@
+{% load static %}
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+
+
+<head>
+
+    <title>{% block title %}{% endblock %}</title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+    <link media="screen" href="{% static 'css/dex-1.css?1639423032' %} " type="text/css" rel="stylesheet">
+    <link media="screen" href="{% static 'css/dex.2.1-1.css?1639423032' %}" type="text/css" rel="stylesheet">
+    <link media="screen" href="{% static 'css/dex.2.2-1.css?1639423032' %}" type="text/css" rel="stylesheet">
+    <link media="screen" href="{% static 'css/dex.2.3-1.css?1639423032' %}" type="text/css" rel="stylesheet">
+    <link media="screen" href="{% static 'css/bost/login-1.css?1639423032' %}" type="text/css" rel="stylesheet">
+    <link media="screen" href="{% static 'css/bost/head-1.css?1639423032' %}" type="text/css" rel="stylesheet">
+    <meta name="google" content="notranslate">
+
+    <link rel="icon" type="image/png" sizes="32x32" href="{% static 'imag/fav.png' %}">
+
+    <script type="text/javascript" src="{% static 'js/jquery.lib-1.js?1639423032' %}"></script>
+    <script type="text/javascript" src="{% static 'js/Russian/lang-1.js?1639423032' %}"></script>
+    <script type="text/javascript" src="{% static 'js/main-1.js?1639423032' %}"></script>
+</head>
+<body>
+<div class="head_pc_over">
+    <div class="head_pc_over1">
+        <a href="index.html ">
+            <div class="logo_bewer">
+                <div class="logo_bewer1"></div>
+            </div>
+        </a>
+
+        <div class="lef_bewer">
+            <a href="registration.html">
+                <div class="lef_bewer1">Регистрация</div>
+            </a>
+        </div>
+
+        <div class="lef_bewer">
+            <a href="registration/login.html">
+                <div class="lef_bewer1">Войти</div>
+            </a>
+        </div>
+    </div>
+</div>
+
+{% block content %} {% endblock %}
+
+</body>
+
+<script src="//ulogin.ru/js/ulogin.js"></script>
+</html>

@@ -1,0 +1,270 @@
+.lide0d{
+    margin: auto;
+    width: 100%;
+}
+
+.lide0d1{
+    padding: 100px 0 0 0;
+}
+
+.lide0d2{
+    float: left;
+}
+
+.lide0d3{}
+
+.lide0d4{
+    float: left;
+}
+
+.lide0d5{
+    background: #fff;
+    padding: 28px 40px 60px;
+    -moz-box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14),0 3px 1px -2px rgba(0,0,0,0.12),0 1px 5px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 2px 2px 0 rgb(0 0 0 / 14%), 0 3px 1px -2px rgb(0 0 0 / 12%), 0 1px 5px 0 rgb(0 0 0 / 20%);
+    overflow: hidden;
+    border-radius: 3px;
+    height: -webkit-fill-available;
+}
+
+.lide1d{
+    margin: 50px 0 20px 0;
+}
+
+.lide1d1{
+    margin: auto;
+    padding: 40px 0 20px 0;
+}
+
+.lide1d2{
+    font-size: 21px;
+    color: #333333;
+    font-weight: 500;
+    margin: 0;
+    font-family: "Lato", sans-serif;
+}
+
+.lide0d2x{
+    width: 410px;
+    margin: 0 0 40px 0;
+}
+
+.lide0d2x1{}
+
+.lideename{
+    margin: 0px 0 40px;
+    font-family: "Lato", sans-serif;
+}
+
+.lideename1{
+    padding: 0;
+    margin: 0 0 10px 0;
+    color: #000;
+    font-weight: 500;
+    font-size: 24px;
+}
+
+.lcog0xke{
+    border: 1px solid #d4d4d4;
+    padding: 5px;
+    margin: 0 0 14px 0;
+    border-radius: 13px;
+}
+
+.lcog0xke1{
+    resize: none;
+    outline: none;
+    width: -webkit-fill-available;
+    border: 0;
+    padding: 1px 4px;
+    font-family: "Lato", sans-serif;
+}
+
+.lcog0xke2{}
+
+.lcog0xke3{
+    display: block;
+    user-select: none;
+    padding: 10px 35px !important;
+    border-radius: 2em;
+    font-size: 15px;
+    margin: 34px auto 0px;
+    background-color: #7c4dff;
+    border-color: #7c4dff;
+    transition: all .3s ease-in-out;
+    height: 40px;
+    font-weight: 500;
+    box-shadow: 0 2px 2px rgb(0 0 0 / 20%);
+    line-height: 16px;
+    outline: 0;
+    min-width: 220px;
+    color: #fff;
+    font-family: "Lato", sans-serif;
+    cursor: pointer;
+}
+
+html{
+    overflow: auto;
+    overflow-x: hidden !important;
+	background: #f7f7f7;background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 1920 1080' enable-background='new 0 0 1920 1080' xml:space='preserve'%3e%3cg%3e%3crect y='-403' fill='%23FFFFFF' width='1920' height='1920'/%3e%3cg%3e%3cg%3e%3cdefs%3e%3crect id='SVGID_1_' y='-403' width='1920' height='1920'/%3e%3c/defs%3e%3cclipPath id='SVGID_2_'%3e%3cuse xlink:href='%23SVGID_1_' overflow='visible'/%3e%3c/clipPath%3e%3c/g%3e%3cg%3e%3cdefs%3e%3crect id='SVGID_3_' y='-403' width='1920' height='1920'/%3e%3c/defs%3e%3cclipPath id='SVGID_4_'%3e%3cuse xlink:href='%23SVGID_3_' overflow='visible'/%3e%3c/clipPath%3e%3cg clip-path='url(%23SVGID_4_)'%3e%3crect x='1941.3' y='-581.9' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 3804.2747 569.3385)' fill='%23FFFFFF' width='157.4' height='157.4'/%3e%3crect x='1941.3' y='-369.8' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 3654.2815 931.4404)' fill='%23FFFFFF' width='157.4' height='157.4'/%3e%3crect x='1517.3' y='-581.9' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 3080.3662 269.524)' fill='%23FFFFFF' width='157.4' height='157.4'/%3e%3crect x='1941.3' y='-157.9' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 3504.4333 1293.2371)' fill='%23FFFFFF' width='157.4' height='157.4'/%3e%3crect x='1305.4' y='-581.9' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 2718.5579 119.6308)' fill='%23FEFEFE' width='157.4' height='157.4'/%3e%3crect x='1411.3' y='-475.9' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 2824.353 375.5479)' fill='%23FEFEFE' width='157.4' height='157.4'/%3e%3crect x='1517.3' y='-369.8' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 2930.3755 631.6182)' fill='%23FFFFFF' width='157.4' height='157.4'/%3e%3crect x='1941.3' y='54.2' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 3354.4612 1655.3109)' fill='%23FFFFFF' width='157.4' height='157.4'/%3e%3crect x='1093.3' y='-581.9' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 2356.4758 -30.3211)' fill='%23F8F8F8' width='157.4' height='157.4'/%3e%3crect x='1199.3' y='-475.9' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 2462.5247 225.7021)' fill='%23FCFCFC' width='157.4' height='157.4'/%3e%3crect x='1305.4' y='-369.8' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 2568.5723 481.725)' fill='%23FEFEFE' width='157.4' height='157.4'/%3e%3crect x='1411.3' y='-263.8' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 2674.4324 737.4973)' fill='%23FFFFFF' width='157.4' height='157.4'/%3e%3cpolygon fill='%23EFEFEF' points='848.7,-503.2 960,-391.9 1071.3,-503.2 960,-614.5 '/%3e%3cpolygon fill='%23EFEFEF' points='954.7,-397.2 1065.9,-285.9 1177.2,-397.2 1065.9,-508.5 '/%3e%3crect x='1093.3' y='-369.8' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 2206.4905 331.7679)' fill='%23F8F8F8' width='157.4' height='157.4'/%3e%3crect x='1199.3' y='-263.8' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 2312.6013 587.6488)' fill='%23FEFEFE' width='157.4' height='157.4'/%3e%3crect x='1305.4' y='-157.9' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 2418.7166 843.5294)' fill='%23FFFFFF' width='157.4' height='157.4'/%3e%3cpolygon fill='%23FFFFFF' points='1802.7,450.9 1914.2,562.2 2025.4,450.9 1914.2,339.6 '/%3e%3crect x='1941.3' y='478.3' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 3054.6199 2379.2095)' fill='%23FCFCFC' width='157.4' height='157.4'/%3e%3crect x='669.3' y='-581.9' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 1632.6807 -330.1269)' fill='%23FBFBFB' width='157.4' height='157.4'/%3e%3crect x='775.2' y='-475.9' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 1738.6012 -74.1568)' fill='%23F0F0F0' width='157.4' height='157.4'/%3e%3cpolygon fill='%23EFEFEF' points='848.7,-291.1 960,-179.8 1071.3,-291.1 960,-402.4 '/%3e%3cpolygon fill='%23EFEFEF' points='954.7,-185.1 1065.9,-73.8 1177.2,-185.1 1065.9,-296.4 '/%3e%3crect x='1093.3' y='-157.9' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 2056.6294 693.5723)' fill='%23FAFAFA' width='157.4' height='157.4'/%3e%3crect x='1199.3' y='-51.8' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 2162.678 949.5955)' fill='%23FEFEFE' width='157.4' height='157.4'/%3e%3crect x='1623.4' y='372.2' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 2586.7014 1973.344)' fill='%23FFFFFF' width='157.4' height='157.4'/%3e%3crect x='1729.4' y='478.3' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 2692.7727 2229.3584)' fill='%23FDFDFD' width='157.4' height='157.4'/%3e%3cpolygon fill='%23FDFDFD' points='1802.7,663 1914.2,774.3 2025.4,663 1914.2,551.7 '/%3e%3cpolygon fill='%23F8F8F8' points='1908.7,768.9 2020.1,880.3 2131.3,768.9 2020.1,657.7 '/%3e%3cpolygon fill='%23F5F5F5' points='424.6,-503.2 535.9,-391.9 647.2,-503.2 535.9,-614.5 '/%3e%3crect x='563.2' y='-475.9' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 1376.6548 -224.0799)' fill='%23FBFBFB' width='157.4' height='157.4'/%3e%3crect x='669.3' y='-369.8' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 1482.7003 31.957)' fill='%23FBFBFB' width='157.4' height='157.4'/%3e%3crect x='775.2' y='-263.8' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 1588.6779 287.7899)' fill='%23EEEEEE' width='157.4' height='157.4'/%3e%3cpolygon fill='%23EFEFEF' points='848.7,-79.2 960,32.1 1071.3,-79.2 960,-190.5 '/%3e%3cpolygon fill='%23F2F2F2' points='954.7,26.9 1065.9,138.2 1177.2,26.9 1065.9,-84.4 '/%3e%3crect x='1093.3' y='54.2' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 1906.6547 1055.6436)' fill='%23FDFDFD' width='157.4' height='157.4'/%3e%3cpolygon fill='%23FEFEFE' points='1166.7,238.9 1278,350.3 1389.3,238.9 1278,127.6 '/%3e%3crect x='1411.3' y='372.2' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 2224.6494 1823.3512)' fill='%23FEFEFE' width='157.4' height='157.4'/%3e%3crect x='1517.3' y='478.3' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 2330.6982 2079.3821)' fill='%23FDFDFD' width='157.4' height='157.4'/%3e%3cpolygon fill='%23FDFDFD' points='1590.8,663 1702.1,774.3 1813.4,663 1702.1,551.7 '/%3e%3cpolygon fill='%23F5F5F5' points='1696.8,768.9 1808.1,880.3 1919.4,768.9 1808.1,657.7 '/%3e%3cpolygon fill='%23F4F4F4' points='1802.7,875 1914.2,986.3 2025.4,875 1914.2,763.7 '/%3e%3crect x='1941.3' y='902.3' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 2754.7446 3103.1143)' fill='%23F3F3F3' width='157.4' height='157.4'/%3e%3cpolygon fill='%23F9F9F9' points='212.6,-503.2 323.9,-391.9 435.1,-503.2 323.9,-614.5 '/%3e%3crect x='351.2' y='-475.9' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 1014.711 -374.0019)' fill='%23F8F8F8' width='157.4' height='157.4'/%3e%3cpolygon fill='%23F5F5F5' points='424.6,-291.1 535.9,-179.8 647.2,-291.1 535.9,-402.4 '/%3e%3crect x='563.2' y='-263.8' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 1226.7316 137.8669)' fill='%23F1F1F1' width='157.4' height='157.4'/%3e%3crect x='669.3' y='-157.9' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 1332.8342 393.7665)' fill='%23F1F1F1' width='157.4' height='157.4'/%3e%3crect x='775.2' y='-51.8' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 1438.7546 649.7366)' fill='%23EFEFEF' width='157.4' height='157.4'/%3e%3cpolygon fill='%23F9F9F9' points='848.7,132.9 960,244.2 1071.3,132.9 960,21.6 '/%3e%3cpolygon fill='%23FBFBFB' points='954.7,238.9 1065.9,350.3 1177.2,238.9 1065.9,127.6 '/%3e%3cpolygon fill='%23FDFDFD' points='1060.7,345 1172,456.2 1283.3,345 1172,233.6 '/%3e%3crect x='1199.3' y='372.2' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 1862.8134 1673.4924)' fill='%23FEFEFE' width='157.4' height='157.4'/%3e%3crect x='1305.4' y='478.3' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 1968.903 1929.5018)' fill='%23FDFDFD' width='157.4' height='157.4'/%3e%3cpolygon fill='%23FDFDFD' points='1378.7,663 1490,774.3 1601.3,663 1490,551.7 '/%3e%3cpolygon fill='%23F6F6F6' points='1484.7,768.9 1596,880.3 1707.3,768.9 1596,657.7 '/%3e%3crect x='1623.4' y='796.3' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 2286.8811 2697.2224)' fill='%23F1F1F1' width='157.4' height='157.4'/%3e%3crect x='1729.4' y='902.3' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 2392.895 2953.2554)' fill='%23F0F0F0' width='157.4' height='157.4'/%3e%3cpolygon fill='%23F1F1F1' points='1802.7,1087.1 1914.2,1198.4 2025.4,1087.1 1914.2,975.8 '/%3e%3cpolygon fill='%23EFEFEF' points='1908.7,1193.1 2020.1,1304.4 2131.3,1193.1 2020.1,1081.8 '/%3e%3crect x='33.1' y='-581.9' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 546.716 -779.9482)' fill='%23FAFAFA' width='157.4' height='157.4'/%3e%3crect x='139.2' y='-475.9' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 652.7642 -523.9252)' fill='%23F9F9F9' width='157.4' height='157.4'/%3e%3cpolygon fill='%23F9F9F9' points='212.6,-291.1 323.9,-179.8 435.1,-291.1 323.9,-402.4 '/%3e%3crect x='351.2' y='-263.8' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 864.7877 -12.0552)' fill='%23F6F6F6' width='157.4' height='157.4'/%3e%3cpolygon fill='%23F7F7F7' points='424.6,-79.2 535.9,32.1 647.2,-79.2 535.9,-190.5 '/%3e%3crect x='563.2' y='-51.8' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 1076.8083 499.8136)' fill='%23EFEFEF' width='157.4' height='157.4'/%3e%3crect x='669.3' y='54.2' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 1182.8594 755.8378)' fill='%23EEEEEE' width='157.4' height='157.4'/%3e%3cpolygon fill='%23F4F4F4' points='742.6,238.9 853.9,350.3 965.2,238.9 853.9,127.6 '/%3e%3cpolygon fill='%23FBFBFB' points='848.7,345 960,456.2 1071.3,345 960,233.6 '/%3e%3cpolygon fill='%23F9F9F9' points='954.7,450.9 1065.9,562.2 1177.2,450.9 1065.9,339.6 '/%3e%3crect x='1093.3' y='478.3' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 1606.8081 1779.5371)' fill='%23F8F8F8' width='157.4' height='157.4'/%3e%3cpolygon fill='%23FCFCFC' points='1166.7,663 1278,774.3 1389.3,663 1278,551.7 '/%3e%3cpolygon fill='%23F5F5F5' points='1272.8,768.9 1384.1,880.3 1495.4,768.9 1384.1,657.7 '/%3e%3crect x='1411.3' y='796.3' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 1924.8317 2547.2373)' fill='%23F3F3F3' width='157.4' height='157.4'/%3e%3crect x='1517.3' y='902.3' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 2030.8232 2803.2766)' fill='%23F2F2F2' width='157.4' height='157.4'/%3e%3crect x='1623.4' y='1008.4' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 2136.8726 3059.301)' fill='%23F0F0F0' width='157.4' height='157.4'/%3e%3cpolygon fill='%23F2F2F2' points='1696.8,1193.1 1808.1,1304.4 1919.4,1193.1 1808.1,1081.8 '/%3e%3cpolygon fill='%23F0F0F0' points='1802.7,1299 1914.2,1410.4 2025.4,1299 1914.2,1187.7 '/%3e%3crect x='1941.3' y='1326.4' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 2454.9397 3827.0002)' fill='%23F4F4F4' width='157.4' height='157.4'/%3e%3crect x='-72.9' y='-475.9' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 290.8127 -673.8533)' fill='%23FAFAFA' width='157.4' height='157.4'/%3e%3crect x='33.1' y='-369.8' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 396.7433 -417.8721)' fill='%23FAFAFA' width='157.4' height='157.4'/%3e%3crect x='139.2' y='-263.8' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 502.841 -161.9784)' fill='%23F6F6F6' width='157.4' height='157.4'/%3e%3cpolygon fill='%23F6F6F6' points='212.6,-79.2 323.9,32.1 435.1,-79.2 323.9,-190.5 '/%3e%3crect x='351.2' y='-51.8' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 714.8645 349.8915)' fill='%23F5F5F5' width='157.4' height='157.4'/%3e%3cpolygon fill='%23F5F5F5' points='424.6,132.9 535.9,244.2 647.2,132.9 535.9,21.6 '/%3e%3cpolygon fill='%23EEEEEE' points='530.6,238.9 641.9,350.3 753.2,238.9 641.9,127.6 '/%3e%3cpolygon fill='%23EEEEEE' points='636.7,345 748,456.2 859.3,345 748,233.6 '/%3e%3crect x='775.2' y='372.2' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 1138.895 1373.6284)' fill='%23F4F4F4' width='157.4' height='157.4'/%3e%3cpolygon fill='%23F8F8F8' points='848.7,557 960,668.3 1071.3,557 960,445.7 '/%3e%3cpolygon fill='%23F8F8F8' points='954.7,663 1065.9,774.3 1177.2,663 1065.9,551.7 '/%3e%3cpolygon fill='%23F8F8F8' points='1060.7,768.9 1172,880.3 1283.3,768.9 1172,657.7 '/%3e%3crect x='1199.3' y='796.3' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 1562.9878 2397.376)' fill='%23F4F4F4' width='157.4' height='157.4'/%3e%3crect x='1305.4' y='902.3' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 1669.0356 2653.3989)' fill='%23F2F2F2' width='157.4' height='157.4'/%3e%3crect x='1411.3' y='1008.4' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 1774.8281 2909.3159)' fill='%23F2F2F2' width='157.4' height='157.4'/%3e%3cpolygon fill='%23F3F3F3' points='1484.7,1193.1 1596,1304.4 1707.3,1193.1 1596,1081.8 '/%3e%3cpolygon fill='%23EFEFEF' points='1590.8,1299 1702.1,1410.4 1813.4,1299 1702.1,1187.7 '/%3e%3crect x='1729.4' y='1326.4' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 2093.0825 3677.1387)' fill='%23EFEFEF' width='157.4' height='157.4'/%3e%3cpolygon fill='%23FBFBFB' points='1802.7,1511.1 1914.2,1622.4 2025.4,1511.1 1914.2,1399.8 '/%3e%3cpolygon fill='%23F9F9F9' points='1908.7,1617.2 2020.1,1728.5 2131.3,1617.2 2020.1,1505.8 '/%3e%3crect x='-178.9' y='-369.8' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 34.8002 -567.7974)' fill='%23FAFAFA' width='157.4' height='157.4'/%3e%3crect x='-72.9' y='-263.8' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 140.8921 -311.904)' fill='%23F6F6F6' width='157.4' height='157.4'/%3e%3crect x='33.1' y='-157.9' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 246.8695 -56.0548)' fill='%23F6F6F6' width='157.4' height='157.4'/%3e%3crect x='139.2' y='-51.8' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 352.9178 199.9683)' fill='%23F4F4F4' width='157.4' height='157.4'/%3e%3cpolygon fill='%23F6F6F6' points='212.6,132.9 323.9,244.2 435.1,132.9 323.9,21.6 '/%3e%3cpolygon fill='%23F8F8F8' points='318.6,238.9 429.9,350.3 541.2,238.9 429.9,127.6 '/%3e%3cpolygon fill='%23F3F3F3' points='424.6,345 535.9,456.2 647.2,345 535.9,233.6 '/%3e%3crect x='563.2' y='372.2' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 776.9513 1223.7028)' fill='%23F4F4F4' width='157.4' height='157.4'/%3e%3crect x='669.3' y='478.3' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 883.0129 1479.7312)' fill='%23F9F9F9' width='157.4' height='157.4'/%3e%3cpolygon fill='%23F6F6F6' points='742.6,663 853.9,774.3 965.2,663 853.9,551.7 '/%3e%3cpolygon fill='%23F9F9F9' points='848.7,768.9 960,880.3 1071.3,768.9 960,657.7 '/%3e%3cpolygon fill='%23FBFBFB' points='954.7,875 1065.9,986.3 1177.2,875 1065.9,763.7 '/%3e%3crect x='1093.3' y='902.3' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 1306.9382 2503.4263)' fill='%23F9F9F9' width='157.4' height='157.4'/%3e%3crect x='1199.3' y='1008.4' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 1412.9843 2759.4495)' fill='%23F2F2F2' width='157.4' height='157.4'/%3e%3cpolygon fill='%23F2F2F2' points='1272.8,1193.1 1384.1,1304.4 1495.4,1193.1 1384.1,1081.8 '/%3e%3cpolygon fill='%23F1F1F1' points='1378.7,1299 1490,1410.4 1601.3,1299 1490,1187.7 '/%3e%3crect x='1517.3' y='1326.4' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 1731.0081 3527.1626)' fill='%23F4F4F4' width='157.4' height='157.4'/%3e%3crect x='1623.4' y='1432.4' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 1837.0208 3783.1895)' fill='%23FAFAFA' width='157.4' height='157.4'/%3e%3cpolygon fill='%23FCFCFC' points='1696.8,1617.2 1808.1,1728.5 1919.4,1617.2 1808.1,1505.8 '/%3e%3crect x='-178.9' y='-157.9' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 -115.0765 -205.9779)' fill='%23F6F6F6' width='157.4' height='157.4'/%3e%3crect x='-72.9' y='-51.8' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 -9.0286 50.0453)' fill='%23F4F4F4' width='157.4' height='157.4'/%3e%3crect x='33.1' y='54.2' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 96.8947 306.0165)' fill='%23F2F2F2' width='157.4' height='157.4'/%3e%3cpolygon fill='%23FBFBFB' points='106.6,238.9 217.9,350.3 329.2,238.9 217.9,127.6 '/%3e%3cpolygon fill='%23FBFBFB' points='212.6,345 323.9,456.2 435.1,345 323.9,233.6 '/%3e%3crect x='351.2' y='372.2' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 415.01 1073.7782)' fill='%23FDFDFD' width='157.4' height='157.4'/%3e%3cpolygon fill='%23FAFAFA' points='424.6,557 535.9,668.3 647.2,557 535.9,445.7 '/%3e%3cpolygon fill='%23F9F9F9' points='530.6,663 641.9,774.3 753.2,663 641.9,551.7 '/%3e%3cpolygon fill='%23FCFCFC' points='636.7,768.9 748,880.3 859.3,768.9 748,657.7 '/%3e%3crect x='775.2' y='796.3' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 839.0644 2097.5171)' fill='%23FCFCFC' width='157.4' height='157.4'/%3e%3cpolygon fill='%23FBFBFB' points='848.7,981 960,1092.3 1071.3,981 960,869.7 '/%3e%3cpolygon fill='%23FBFBFB' points='954.7,1087.1 1065.9,1198.4 1177.2,1087.1 1065.9,975.8 '/%3e%3cpolygon fill='%23F9F9F9' points='1060.7,1193.1 1172,1304.4 1283.3,1193.1 1172,1081.8 '/%3e%3cpolygon fill='%23F6F6F6' points='1166.7,1299 1278,1410.4 1389.3,1299 1278,1187.7 '/%3e%3crect x='1305.4' y='1326.4' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 1369.223 3377.2925)' fill='%23F1F1F1' width='157.4' height='157.4'/%3e%3crect x='1411.3' y='1432.4' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 1474.9817 3633.2095)' fill='%23F4F4F4' width='157.4' height='157.4'/%3e%3cpolygon fill='%23F8F8F8' points='1484.7,1617.2 1596,1728.5 1707.3,1617.2 1596,1505.8 '/%3e%3crect x='-178.9' y='54.2' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 -265.0517 156.0931)' fill='%23F2F2F2' width='157.4' height='157.4'/%3e%3cpolygon fill='%23F8F8F8' points='-105.4,238.9 5.9,350.3 117.1,238.9 5.9,127.6 '/%3e%3cpolygon fill='%23F8F8F8' points='0.5,345 111.8,456.2 223.1,345 111.8,233.6 '/%3e%3crect x='139.2' y='372.2' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 53.0659 923.8524)' fill='%23FCFCFC' width='157.4' height='157.4'/%3e%3cpolygon fill='%23FBFBFB' points='212.6,557 323.9,668.3 435.1,557 323.9,445.7 '/%3e%3cpolygon fill='%23FBFBFB' points='318.6,663 429.9,774.3 541.2,663 429.9,551.7 '/%3e%3cpolygon fill='%23FDFDFD' points='424.6,768.9 535.9,880.3 647.2,768.9 535.9,657.7 '/%3e%3crect x='563.2' y='796.3' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 477.1181 1947.594)' fill='%23FEFEFE' width='157.4' height='157.4'/%3e%3crect x='669.3' y='902.3' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 583.1481 2203.6155)' fill='%23FEFEFE' width='157.4' height='157.4'/%3e%3crect x='775.2' y='1008.4' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 689.066 2459.5854)' fill='%23FDFDFD' width='157.4' height='157.4'/%3e%3cpolygon fill='%23FCFCFC' points='848.7,1193.1 960,1304.4 1071.3,1193.1 960,1081.8 '/%3e%3cpolygon fill='%23FCFCFC' points='954.7,1299 1065.9,1410.4 1177.2,1299 1065.9,1187.7 '/%3e%3crect x='1093.3' y='1326.4' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 1007.1179 3227.3174)' fill='%23F8F8F8' width='157.4' height='157.4'/%3e%3crect x='1199.3' y='1432.4' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 1113.1327 3483.3379)' fill='%23F3F3F3' width='157.4' height='157.4'/%3e%3cpolygon fill='%23F8F8F8' points='1272.8,1617.2 1384.1,1728.5 1495.4,1617.2 1384.1,1505.8 '/%3e%3cpolygon fill='%23F8F8F8' points='-211.5,345 -100.2,456.2 11.1,345 -100.2,233.6 '/%3e%3crect x='-72.9' y='372.2' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 -308.8727 773.9319)' fill='%23FDFDFD' width='157.4' height='157.4'/%3e%3crect x='33.1' y='478.3' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 -202.9518 1029.9099)' fill='%23FAFAFA' width='157.4' height='157.4'/%3e%3cpolygon fill='%23FBFBFB' points='106.6,663 217.9,774.3 329.2,663 217.9,551.7 '/%3e%3cpolygon fill='%23FDFDFD' points='212.6,768.9 323.9,880.3 435.1,768.9 323.9,657.7 '/%3e%3crect x='351.2' y='796.3' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 115.1742 1797.6719)' fill='%23FFFFFF' width='157.4' height='157.4'/%3e%3crect x='563.2' y='1008.4' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 327.1223 2309.6597)' fill='%23FEFEFE' width='157.4' height='157.4'/%3e%3cpolygon fill='%23FFFFFF' points='636.7,1193.1 748,1304.4 859.3,1193.1 748,1081.8 '/%3e%3cpolygon fill='%23FDFDFD' points='742.6,1299 853.9,1410.4 965.2,1299 853.9,1187.7 '/%3e%3cpolygon fill='%23FCFCFC' points='848.7,1405.1 960,1516.4 1071.3,1405.1 960,1293.8 '/%3e%3cpolygon fill='%23FCFCFC' points='954.7,1511.1 1065.9,1622.4 1177.2,1511.1 1065.9,1399.8 '/%3e%3cpolygon fill='%23FAFAFA' points='1060.7,1617.2 1172,1728.5 1283.3,1617.2 1172,1505.8 '/%3e%3crect x='-178.9' y='478.3' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 -564.8988 879.9859)' fill='%23FAFAFA' width='157.4' height='157.4'/%3e%3cpolygon fill='%23FAFAFA' points='-105.4,663 5.9,774.3 117.1,663 5.9,551.7 '/%3e%3cpolygon fill='%23FCFCFC' points='0.5,768.9 111.8,880.3 223.1,768.9 111.8,657.7 '/%3e%3crect x='139.2' y='796.3' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 -246.7725 1647.7487)' fill='%23FEFEFE' width='157.4' height='157.4'/%3e%3cpolygon fill='%23FFFFFF' points='530.6,1299 641.9,1410.4 753.2,1299 641.9,1187.7 '/%3e%3crect x='669.3' y='1326.4' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 283.3226 2927.5115)' fill='%23FFFFFF' width='157.4' height='157.4'/%3e%3crect x='775.2' y='1432.4' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 389.2144 3183.4736)' fill='%23FDFDFD' width='157.4' height='157.4'/%3e%3cpolygon fill='%23FCFCFC' points='848.7,1617.2 960,1728.5 1071.3,1617.2 960,1505.8 '/%3e%3cpolygon fill='%23FCFCFC' points='-211.5,768.9 -100.2,880.3 11.1,768.9 -100.2,657.7 '/%3e%3crect x='-72.9' y='796.3' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 -608.7086 1497.8359)' fill='%23FEFEFE' width='157.4' height='157.4'/%3e%3crect x='33.1' y='902.3' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 -502.8088 1753.7864)' fill='%23FFFFFF' width='157.4' height='157.4'/%3e%3crect x='563.2' y='1432.4' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 27.2706 3033.5481)' fill='%23FEFEFE' width='157.4' height='157.4'/%3e%3cpolygon fill='%23FDFDFD' points='636.7,1617.2 748,1728.5 859.3,1617.2 748,1505.8 '/%3e%3crect x='-178.9' y='902.3' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 -864.7539 1603.859)' fill='%23FFFFFF' width='157.4' height='157.4'/%3e%3crect x='-72.9' y='1008.4' transform='matrix(-0.7071 -0.7071 0.7071 -0.7071 -758.694 1859.8966)' fill='%23FFFFFF' width='157.4' height='157.4'/%3e%3cpolygon fill='%23FEFEFE' points='424.6,1617.2 535.9,1728.5 647.2,1617.2 535.9,1505.8 '/%3e%3cpolygon fill='%23FFFFFF' points='0.5,1617.2 111.8,1728.5 223.1,1617.2 111.8,1505.8 '/%3e%3cpolygon fill='%23FFFFFF' points='-211.5,1617.2 -100.2,1728.5 11.1,1617.2 -100.2,1505.8 '/%3e%3c/g%3e%3c/g%3e%3cg%3e%3cdefs%3e%3crect id='SVGID_5_' y='-403' width='1920' height='1920'/%3e%3c/defs%3e%3cclipPath id='SVGID_6_'%3e%3cuse xlink:href='%23SVGID_5_' overflow='visible'/%3e%3c/clipPath%3e%3c/g%3e%3c/g%3e%3cradialGradient id='SVGID_7_' cx='960' cy='556.9877' r='993.9694' gradientUnits='userSpaceOnUse'%3e%3cstop offset='0' style='stop-color:%23FFFFFF'/%3e%3cstop offset='0.177' style='stop-color:%23FCFCFC'/%3e%3cstop offset='0.3092' style='stop-color:%23F2F2F2'/%3e%3cstop offset='0.4268' style='stop-color:%23E2E2E2'/%3e%3cstop offset='0.5359' style='stop-color:%23CCCCCC'/%3e%3cstop offset='0.6393' style='stop-color:%23AEAEAE'/%3e%3cstop offset='0.7383' style='stop-color:%238A8A8A'/%3e%3cstop offset='0.8338' style='stop-color:%235F5F5F'/%3e%3cstop offset='0.9242' style='stop-color:%232F2F2F'/%3e%3cstop offset='1' style='stop-color:%23000000'/%3e%3c/radialGradient%3e%3crect y='-403' display='none' fill='url(#SVGID_7_.html)' width='1920' height='1920'/%3e%3c/g%3e%3c/svg%3e");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    position: relative;
+}
+
+.poin93c{
+    float: right;
+    margin: 0 6px;
+    font-size: 22px;
+    color: #3f51b5;
+    fill: #607d8b;
+}
+
+.poin93c1{
+    float: right;
+    width: 72px;
+}
+
+.poin93c2{
+    font-family: "Lato", sans-serif;
+    font-size: 13px;
+    color: #e91e63;
+    font-weight: 500;
+}
+
+.poin93c3{
+    float: left;
+    width: 107px;
+    margin: 2px 0 0 0;
+}
+
+.poin93c4{}
+
+.poin93c5{
+    height: 25px;
+}
+
+.poin93c5s{}
+
+.icon_avtor{
+    width: 24px;
+    height: 24px;
+    cursor: pointer;
+}
+
+.lide1d1sr{}
+
+.lide1d1sr1{
+    font-size: 17px;
+    color: #333333;
+    font-weight: 500;
+    margin: 0;
+    font-family: "Lato", sans-serif;
+}
+
+.lcog0xke2de{
+    display: block;
+    margin: 130px 0 0px 0;
+}
+
+.lcog0xke2de1{
+    background-color: transparent;
+    border-color: #7c4dff;
+    color: #7c4dff;
+    border-width: 2px;
+    text-transform: uppercase;
+    font-weight: 500;
+    padding: 10px 30px;
+    transition: all 0.2s ease-in-out;
+    cursor: pointer;
+}
+
+.lcog0xkerecaptcha{
+    margin: auto;
+    width: 301px;
+    padding: 6px 0;
+}
+
+.lide1d1cx{
+    padding: 10px 0 10px 0;
+}
+
+.lide1d1cx1{
+    font-size: 18px;
+}
+
+.lide1xd1cx{
+    padding: 60px 0 20px 0;
+}
+
+.vg_info{}
+
+.dell_if_iinfo{
+    border: 1px solid #d4d4d4;
+    padding: 5px;
+    margin: 0 0 14px 0;
+    border-radius: 13px;
+    text-align: center;
+}
+
+.dell_if_iinfo1{}
+
+.dell_if_iinfo2{}
+
+.dell_if_iinfo3{
+    padding: 0;
+    margin: 0 0 10px 0;
+    color: #e91e63;
+    font-weight: bold;
+    font-size: 11px;
+    font-family: "Lato", sans-serif;
+}
+
+.mob_ogs{}
+
+.mob_ogs1{}
+
+.mob_ogs2{
+    padding: 0 10px;
+    text-align: center;
+}
+
+.mob_ogs3{}
+
+.lide0d2xcxe{
+    width: -webkit-fill-available;
+    margin: 30px 10px 30px 10px;
+}
+
+.lide0d2xcxe1{}
+
+.lcog0xke2decx4d{
+    text-align: center;
+    margin: 0 0 30px 0;
+}
+
+.lide0d2xcx{
+    float: none;
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.lide0d2xcxx{
+    margin-top: 0px;
+}
+
+.cxlideename1{font-size: 18px;margin: auto;width: 283px;padding: 50px 0 0 0;}
+
+.lide0d2xcxsx{
+    padding: 0;
+    word-break: normal;
+    font-size: 13px;
+}
+
+.lcog0xkesx{
+    overflow: hidden;
+}
+
