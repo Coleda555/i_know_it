@@ -21,7 +21,7 @@ class ContextMixin:
 class QuesView(ContextMixin, ListView):
     model = QuesModel
     template_name = 'quizzes/index.html'
-    context_object_name = 'question'
+    context_object_name = 'questions'
 
     def get_context_data(self, *, object_list=None, **kwargs):
         context = super(QuesView, self).get_context_data()
