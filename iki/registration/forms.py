@@ -6,36 +6,54 @@ class RegistrationForm(UserCreationForm):
     firstname = CharField(
         widget=TextInput(
             attrs={
-                'name': 'first_name',
-                'id': 'first_name',
-                'placeholder': 'Введите ваше имя'
+                'name': 'name',
+                'id': 'name',
+                'class': 'kb_oof1',
+                'type': 'text',
+                'maxlength': '30',
+                'placeholder': 'Имя',
+                'required': True
+
             }
         )
     )
     lastname = CharField(
         widget=TextInput(
             attrs={
-                'name': 'last_name',
-                'id': 'last_name',
-                'placeholder': 'Введите вашу фамилию'
+                'name': 'lastname',
+                'id': 'lastname',
+                'class': 'kb_oof1',
+                'type': 'text',
+                'maxlength': '30',
+                'placeholder': 'Фамилия',
+                'required': True
             }
         )
     )
     password1 = CharField(
         widget=PasswordInput(
             attrs={
-                'name': 'pass',
-                'id': 'pass',
-                'placeholder': 'Введите пароль'
+                'name': 'new_pass',
+                'id': 'new_pass',
+                'class': 'kb_oof1',
+                'type': 'password',
+                'maxlength': '30',
+                'placeholder': 'Введите пароль',
+                'required': True
+
             }
         )
     )
     password2 = CharField(
         widget=PasswordInput(
             attrs={
-                'name': 're_pass',
-                'id': 're_pass',
-                'placeholder': 'Повторите ваш пароль'
+                'name': 'new_pass2',
+                'id': 'new_pass2',
+                'class': 'kb_oof1',
+                'type': 'password',
+                'maxlength': '30',
+                'placeholder': 'Повторите ваш пароль',
+                'required': True
             }
         )
     )
@@ -44,19 +62,24 @@ class RegistrationForm(UserCreationForm):
             attrs={
                 'name': 'email',
                 'id': 'email',
-                'placeholder': 'Введите ваш Email'
+                'class': 'kb_oof1',
+                'type': 'email',
+                'maxlength': '30',
+                'placeholder': 'E-mail',
+                'required': True
+
             }
         )
     )
 
 
 class SignInForm(AuthenticationForm):
-    username = EmailField(
-        widget=EmailInput(
+    username = CharField(
+        widget=TextInput(
             attrs={
-                'name': 'your_email',
-                'id': 'your_email',
-                'placeholder': 'E-mail'
+                'name': 'your_name',
+                'id': 'your_name',
+                'placeholder': 'Имя'
             }
         )
     )
@@ -65,7 +88,7 @@ class SignInForm(AuthenticationForm):
             attrs={
                 'name': 'your_pass',
                 'id': 'your_pass',
-                'placeholder': 'Password'
+                'placeholder': 'Пароль'
             }
         )
     )

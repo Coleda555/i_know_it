@@ -14,31 +14,41 @@
                         <div class="klodes">
                             <name class="klodes1">Регистрация</name>
                         </div>
+                        <form method="post" action="/" >
+                            {% csrf_token %}
+                            <div class="kb_oof">
+                                {{ form.firstname }}
+<!--                                <input type="text" class="kb_oof1" maxlength="30" id="name" placeholder="Ваше имя">-->
+                            </div>
 
-                        <div class="kb_oof">
-                            <input type="text" class="kb_oof1" maxlength="30" id="name" placeholder="Ваше имя">
-                        </div>
+                            <div class="kb_oof">
+                                 {{ form.lastname }}
+<!--                                <input type="text" class="kb_oof1" maxlength="30" id="lastname"-->
+<!--                                       placeholder="Ваша фамилия">-->
+                            </div>
 
-                        <div class="kb_oof">
-                            <input type="text" class="kb_oof1" maxlength="30" id="lastname" placeholder="Ваша фамилия">
-                        </div>
+                            <div class="kb_oof">
+                                 {{ form.email }}
+<!--                                <input type="text" class="kb_oof1" maxlength="50" id="email" placeholder="E-mail">-->
+                            </div>
 
-                        <div class="kb_oof">
-                            <input type="text" class="kb_oof1" maxlength="50" id="email" placeholder="E-mail">
-                        </div>
+                            <div class="kb_oof">
+                                 {{ form.password1 }}
+<!--                                <input type="password" class="kb_oof1" maxlength="30" id="new_pass"-->
+<!--                                       placeholder="Пароль">-->
+                            </div>
 
-                        <div class="kb_oof">
-                            <input type="password" class="kb_oof1" maxlength="30" id="new_pass" placeholder="Пароль">
-                        </div>
+                            <div class="kb_oof">
+                                {{ form.password2 }}
+<!--                                <input type="password" class="kb_oof1" maxlength="30" id="new_pass2"-->
+<!--                                       placeholder="Повторите пароль">-->
+                            </div>
 
-                        <div class="kb_oof">
-                            <input type="password" class="kb_oof1" maxlength="30" id="new_pass2"
-                                   placeholder="Повторите пароль">
-                        </div>
-
-                        <div class="kb_oof2">
-                            <button class="kb_oof3" onclick="reg.codes_post(); return false">Зарегистрироваться</button>
-                        </div>
+                            <div class="kb_oof2">
+                                <button class="kb_oof3" onclick="reg.codes_post(); return false">Зарегистрироваться
+                                </button>
+                            </div>
+                        </form>
 
                     </div>
                 </div>

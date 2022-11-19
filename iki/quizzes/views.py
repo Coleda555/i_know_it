@@ -18,13 +18,19 @@ class ContextMixin:
     }
 
 
-class QuesView(ContextMixin, ListView):
+class QuesView(ListView):
     model = QuesModel
     template_name = 'quizzes/index.html'
     context_object_name = 'questions'
 
-    def get_context_data(self, *, object_list=None, **kwargs):
-        context = super(QuesView, self).get_context_data()
-        context.update(self.context)
-        context['user'] = self.request.user
-        return context
+    # def get_context_data(self, *, object_list=None, **kwargs):
+    #     context = super(QuesView, self).get_context_data()
+    #     context.update(self.context)
+    #     context['user'] = self.request.user
+    #     return context
+
+
+class WallUserView(ListView):
+    model = User
+    template_name = 'quizzes/user_wall.html'
+    context_object_name = 'users'

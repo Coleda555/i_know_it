@@ -5,6 +5,8 @@
 Квизы
 {% endblock %}
 {% block content %}
+
+
 <div class="div_content">
     <div class="div_content1" id="page">
 
@@ -25,7 +27,7 @@
                                 <div class="head_post_wall_h1ox1">
                                     <div class="wall_avatar_post">
                                         <div class="wall_avatar_post1">
-                                            <a href="id65.html">
+                                            <a href="{% url 'wall_user' %}">
                                                 <img class="wall_avatar_post2"
                                                      src="{% static 'uploads/users/65/100_1aecaa6dc330f4f.gif' %} ">
                                             </a>
@@ -36,15 +38,15 @@
                                         <div class="wall_nameDate_post1">
                                             <div class="wall_nameDate_post2">
                                                 <div class="wall_nameDate_post3">
-                                                    <a href="id65.html">
-                                                        <name class="wall_nameDate_pos">Yumi Sakurai</name>
+                                                    <a href="{% url 'wall_user' %}">
+                                                        <name class="wall_nameDate_pos">Автор</name>
                                                     </a>
                                                 </div>
                                             </div>
 
                                             <div class="wall_nameDate_post4">
                                                 <div class="wall_nameDate_post5">
-                                                    <name class="wall_nameDate_pos1">вчера в 07:57</name>
+                                                    <name class="wall_nameDate_pos1">дата публикации</name>
                                                 </div>
                                             </div>
                                         </div>
@@ -55,11 +57,7 @@
                             <div class="menu-oc_px-ismap4">
                                 <div class="text_xon">
                                     <div class="text_xon1">
-                                        <name class="text_xon2">Наблюдаю этот год за соц сетями. Например ВК уже лютая
-                                            помойка... Заходишь в комменты - одни боты,добавили куча всего ненужного
-                                            дерьма. ВК уже не отличается от соц сети динозавровой эпохи Ок ру,и сам же
-                                            становиться таким же. А ведь это не удивительно. Все за что дотягивается
-                                            лапа мейл ру,по итогу становиться полным говном.
+                                        <name class="text_xon2">вопрос вопрос вопрос вопрос вопрос
                                             <name></name>
                                         </name>
                                     </div>
@@ -99,157 +97,157 @@
                     </div>
                 </div>
 
-                <div class="wallrecord" onmouseover="WallViews(145);" id="wall_record_145">
-                    <div class="post_wall_user">
-                        <div class="post_wall_user1">
-                            <div class="head_post_wall_h1ox">
-                                <div class="head_post_wall_h1ox1">
-                                    <div class="wall_avatar_post">
-                                        <div class="wall_avatar_post1">
-                                            <a href="id68.html">
-                                                <img class="wall_avatar_post2"
-                                                     src="{% static 'uploads/users/68/100_a61058e70a24d70.jpg' %}">
-                                            </a>
-                                        </div>
-                                    </div>
+<!--                <div class="wallrecord" onmouseover="WallViews(145);" id="wall_record_145">-->
+<!--                    <div class="post_wall_user">-->
+<!--                        <div class="post_wall_user1">-->
+<!--                            <div class="head_post_wall_h1ox">-->
+<!--                                <div class="head_post_wall_h1ox1">-->
+<!--                                    <div class="wall_avatar_post">-->
+<!--                                        <div class="wall_avatar_post1">-->
+<!--                                            <a href="id68.html">-->
+<!--                                                <img class="wall_avatar_post2"-->
+<!--                                                     src="{% static 'uploads/users/68/100_a61058e70a24d70.jpg' %}">-->
+<!--                                            </a>-->
+<!--                                        </div>-->
+<!--                                    </div>-->
 
-                                    <div class="wall_nameDate_post">
-                                        <div class="wall_nameDate_post1">
-                                            <div class="wall_nameDate_post2">
-                                                <div class="wall_nameDate_post3">
-                                                    <a href="id68.html">
-                                                        <name class="wall_nameDate_pos">NONSE</name>
-                                                    </a>
-                                                </div>
-                                            </div>
+<!--                                    <div class="wall_nameDate_post">-->
+<!--                                        <div class="wall_nameDate_post1">-->
+<!--                                            <div class="wall_nameDate_post2">-->
+<!--                                                <div class="wall_nameDate_post3">-->
+<!--                                                    <a href="id68.html">-->
+<!--                                                        <name class="wall_nameDate_pos">NONSE</name>-->
+<!--                                                    </a>-->
+<!--                                                </div>-->
+<!--                                            </div>-->
 
-                                            <div class="wall_nameDate_post4">
-                                                <div class="wall_nameDate_post5">
-                                                    <name class="wall_nameDate_pos1">9 дек 2021 г</name>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+<!--                                            <div class="wall_nameDate_post4">-->
+<!--                                                <div class="wall_nameDate_post5">-->
+<!--                                                    <name class="wall_nameDate_pos1">9 дек 2021 г</name>-->
+<!--                                                </div>-->
+<!--                                            </div>-->
+<!--                                        </div>-->
+<!--                                    </div>-->
+<!--                                </div>-->
+<!--                            </div>-->
 
-                            <div class="menu-oc_px-ismap4">
-                                <div class="text_xon">
+<!--                            <div class="menu-oc_px-ismap4">-->
+<!--                                <div class="text_xon">-->
 
-                                </div>
-                            </div>
+<!--                                </div>-->
+<!--                            </div>-->
 
-                            <div class="menu-oc_px-ismap5">
-                                <div class="slideshow-container145">
-                                    <div class="photo_cl_post mySlides145"><img
-                                            src="{% static 'uploads/attach/68/5de84932dd71f250d86e.jpg' %} " class="cevert0x0wall02">
-                                    </div>
-                                    <a class="prev145" onclick="plusSlides145(-1)">❮</a><a class="next145"
-                                                                                           onclick="plusSlides145(1)">❯</a>
-                                    <script>
-								var slideIndex = 1;
-								showSlides145(slideIndex);
+<!--                            <div class="menu-oc_px-ismap5">-->
+<!--                                <div class="slideshow-container145">-->
+<!--                                    <div class="photo_cl_post mySlides145"><img-->
+<!--                                            src="{% static 'uploads/attach/68/5de84932dd71f250d86e.jpg' %} " class="cevert0x0wall02">-->
+<!--                                    </div>-->
+<!--                                    <a class="prev145" onclick="plusSlides145(-1)">❮</a><a class="next145"-->
+<!--                                                                                           onclick="plusSlides145(1)">❯</a>-->
+<!--                                    <script>-->
+<!--								var slideIndex = 1;-->
+<!--								showSlides145(slideIndex);-->
 
-								function plusSlides145(n) {
-								  showSlides145(slideIndex += n);
-								}
+<!--								function plusSlides145(n) {-->
+<!--								  showSlides145(slideIndex += n);-->
+<!--								}-->
 
-								function currentSlide(n) {
-								  showSlides145(slideIndex = n);
-								}
+<!--								function currentSlide(n) {-->
+<!--								  showSlides145(slideIndex = n);-->
+<!--								}-->
 
-								function showSlides145(n) {
-								  var i;
-								  var slides = document.getElementsByClassName("mySlides145");
-								  var dots = document.getElementsByClassName("dot145");
-								  if (n > slides.length) {slideIndex = 1}    
-								  if (n < 1) {slideIndex = slides.length}
-								  for (i = 0; i < slides.length; i++) {
-									  slides[i].style.display = "none";  
-								  }
+<!--								function showSlides145(n) {-->
+<!--								  var i;-->
+<!--								  var slides = document.getElementsByClassName("mySlides145");-->
+<!--								  var dots = document.getElementsByClassName("dot145");-->
+<!--								  if (n > slides.length) {slideIndex = 1}    -->
+<!--								  if (n < 1) {slideIndex = slides.length}-->
+<!--								  for (i = 0; i < slides.length; i++) {-->
+<!--									  slides[i].style.display = "none";  -->
+<!--								  }-->
 
-								  slides[slideIndex-1].style.display = "block";  
-								  dots[slideIndex-1] += 'active145';
-								}
+<!--								  slides[slideIndex-1].style.display = "block";  -->
+<!--								  dots[slideIndex-1] += 'active145';-->
+<!--								}-->
 
-                                    </script>
+<!--                                    </script>-->
 
-                                    <style>
-								.mySlides145 {display: none}
+<!--                                    <style>-->
+<!--								.mySlides145 {display: none}-->
 
-								.slideshow-container145 {
-								  max-width: 1000px;
-								  position: relative;
-								}
+<!--								.slideshow-container145 {-->
+<!--								  max-width: 1000px;-->
+<!--								  position: relative;-->
+<!--								}-->
 
-								.prev145, .next145 {
-								  cursor: pointer;
-								  position: absolute;
-								  top: 50%;
-								  width: auto;
-								  padding: 16px;
-								  margin-top: -22px;
-								  color: white;
-								  font-weight: bold;
-								  font-size: 18px;
-								  transition: 0.6s ease;
-								  border-radius: 0 3px 3px 0;
-								}
+<!--								.prev145, .next145 {-->
+<!--								  cursor: pointer;-->
+<!--								  position: absolute;-->
+<!--								  top: 50%;-->
+<!--								  width: auto;-->
+<!--								  padding: 16px;-->
+<!--								  margin-top: -22px;-->
+<!--								  color: white;-->
+<!--								  font-weight: bold;-->
+<!--								  font-size: 18px;-->
+<!--								  transition: 0.6s ease;-->
+<!--								  border-radius: 0 3px 3px 0;-->
+<!--								}-->
 
-								.next145 {
-								  right: 0;
-								  border-radius: 3px 0 0 3px;
-								}
+<!--								.next145 {-->
+<!--								  right: 0;-->
+<!--								  border-radius: 3px 0 0 3px;-->
+<!--								}-->
 
-								.prev145:hover, .next145:hover {
-								  background-color: rgba(0,0,0,0.8);
-								}
+<!--								.prev145:hover, .next145:hover {-->
+<!--								  background-color: rgba(0,0,0,0.8);-->
+<!--								}-->
 
-								.dot145 {
-								  cursor: pointer;
-								  height: 15px;
-								  width: 15px;
-								  margin: 0 2px;
-								  background-color: #bbb;
-								  border-radius: 50%;
-								  display: inline-block;
-								  transition: background-color 0.6s ease;
-								}
+<!--								.dot145 {-->
+<!--								  cursor: pointer;-->
+<!--								  height: 15px;-->
+<!--								  width: 15px;-->
+<!--								  margin: 0 2px;-->
+<!--								  background-color: #bbb;-->
+<!--								  border-radius: 50%;-->
+<!--								  display: inline-block;-->
+<!--								  transition: background-color 0.6s ease;-->
+<!--								}-->
 
-								.active145, .dot145:hover {
-								  background-color: #717171;
-								}
+<!--								.active145, .dot145:hover {-->
+<!--								  background-color: #717171;-->
+<!--								}-->
 
-                                    </style>
-                                </div>
-                            </div>
+<!--                                    </style>-->
+<!--                                </div>-->
+<!--                            </div>-->
 
-                            <div class="icon_head_likes_views">
-                                <div class="icon_head_likes_views1" id="load_likes_view_nume145">
-                                    <li class="icon_head_likes_views2">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 32 32"
-                                             class="icon_head_likes_views3">
-                                            <g data-name="Layer 54" id="Layer_54">
-                                                <path class="cls-1"
-                                                      d="M16,28.72a3,3,0,0,1-2.13-.88L3.57,17.54a8.72,8.72,0,0,1-2.52-6.25,8.06,8.06,0,0,1,8.14-8A8.06,8.06,0,0,1,15,5.68l1,1,.82-.82h0a8.39,8.39,0,0,1,11-.89,8.25,8.25,0,0,1,.81,12.36L18.13,27.84A3,3,0,0,1,16,28.72ZM9.15,5.28A6.12,6.12,0,0,0,4.89,7a6,6,0,0,0-1.84,4.33A6.72,6.72,0,0,0,5,16.13l10.3,10.3a1,1,0,0,0,1.42,0L27.23,15.91A6.25,6.25,0,0,0,29,11.11a6.18,6.18,0,0,0-2.43-4.55,6.37,6.37,0,0,0-8.37.71L16.71,8.8a1,1,0,0,1-1.42,0l-1.7-1.7a6.28,6.28,0,0,0-4.4-1.82Z"></path>
-                                            </g>
-                                        </svg>
+<!--                            <div class="icon_head_likes_views">-->
+<!--                                <div class="icon_head_likes_views1" id="load_likes_view_nume145">-->
+<!--                                    <li class="icon_head_likes_views2">-->
+<!--                                        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 32 32"-->
+<!--                                             class="icon_head_likes_views3">-->
+<!--                                            <g data-name="Layer 54" id="Layer_54">-->
+<!--                                                <path class="cls-1"-->
+<!--                                                      d="M16,28.72a3,3,0,0,1-2.13-.88L3.57,17.54a8.72,8.72,0,0,1-2.52-6.25,8.06,8.06,0,0,1,8.14-8A8.06,8.06,0,0,1,15,5.68l1,1,.82-.82h0a8.39,8.39,0,0,1,11-.89,8.25,8.25,0,0,1,.81,12.36L18.13,27.84A3,3,0,0,1,16,28.72ZM9.15,5.28A6.12,6.12,0,0,0,4.89,7a6,6,0,0,0-1.84,4.33A6.72,6.72,0,0,0,5,16.13l10.3,10.3a1,1,0,0,0,1.42,0L27.23,15.91A6.25,6.25,0,0,0,29,11.11a6.18,6.18,0,0,0-2.43-4.55,6.37,6.37,0,0,0-8.37.71L16.71,8.8a1,1,0,0,1-1.42,0l-1.7-1.7a6.28,6.28,0,0,0-4.4-1.82Z"></path>-->
+<!--                                            </g>-->
+<!--                                        </svg>-->
 
-                                        1
+<!--                                        1-->
 
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                                             fill="currentColor" class="icon_head_likes_views3" viewbox="0 0 16 16">
-                                            <path d="M16 8s-3-5.5-8-5.5S0 8 0 8s3 5.5 8 5.5S16 8 16 8zM1.173 8a13.133 13.133 0 0 1 1.66-2.043C4.12 4.668 5.88 3.5 8 3.5c2.12 0 3.879 1.168 5.168 2.457A13.133 13.133 0 0 1 14.828 8c-.058.087-.122.183-.195.288-.335.48-.83 1.12-1.465 1.755C11.879 11.332 10.119 12.5 8 12.5c-2.12 0-3.879-1.168-5.168-2.457A13.134 13.134 0 0 1 1.172 8z"></path>
-                                            <path d="M8 5.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM4.5 8a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0z"></path>
-                                        </svg>
+<!--                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"-->
+<!--                                             fill="currentColor" class="icon_head_likes_views3" viewbox="0 0 16 16">-->
+<!--                                            <path d="M16 8s-3-5.5-8-5.5S0 8 0 8s3 5.5 8 5.5S16 8 16 8zM1.173 8a13.133 13.133 0 0 1 1.66-2.043C4.12 4.668 5.88 3.5 8 3.5c2.12 0 3.879 1.168 5.168 2.457A13.133 13.133 0 0 1 14.828 8c-.058.087-.122.183-.195.288-.335.48-.83 1.12-1.465 1.755C11.879 11.332 10.119 12.5 8 12.5c-2.12 0-3.879-1.168-5.168-2.457A13.134 13.134 0 0 1 1.172 8z"></path>-->
+<!--                                            <path d="M8 5.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM4.5 8a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0z"></path>-->
+<!--                                        </svg>-->
 
-                                        8
-                                    </li>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+<!--                                        8-->
+<!--                                    </li>-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
 
             </div>
         </div>

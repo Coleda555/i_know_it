@@ -2659,6 +2659,7 @@
     text-shadow: 1px 1px 5px rgb(203 209 213);
     text-indent: 0.3em;
     font-family: "Lato", sans-serif;
+    text-align: center
 }
 
 .wcfcx_load {
@@ -2754,7 +2755,7 @@
 
 .bewse_obs4{
     float: left;
-    width: 455px;
+    width: 600px;
 }
 
 .bewse_obs5{}

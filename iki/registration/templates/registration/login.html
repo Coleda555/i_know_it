@@ -18,12 +18,16 @@
 				</div>	
 					
 				<form method="post" id="authorization" action="/">
+					{% csrf_token %}
 					<div class="kb_oof">
-						<input type="text" name="email" id="log_email" maxlength="50" class="kb_oof1" placeholder="E-mail" required="">
+						{{ form.username }}
+
+<!--						<input type="text" name="email" id="log_email" maxlength="50" class="kb_oof1" placeholder="E-mail" required="">-->
 					</div>	
 						
 					<div class="kb_oof">
-						<input type="password" name="password" id="log_password" maxlength="50" class="kb_oof1" placeholder="Пароль" required="">
+						{{ form.password }}
+<!--						<input type="password" name="password" id="log_password" maxlength="50" class="kb_oof1" placeholder="Пароль" required="">-->
 					</div>
 				
 					<div class="kb_oof2">
